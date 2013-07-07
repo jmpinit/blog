@@ -19,5 +19,14 @@ Images
 3) place the image in its post
 
 _tools_
-* list images for a post
+Generate source code for images in a post with a command like "imggen simulacrum", which finds the images in the directory at hackniac.com/images/posts/simulacrum/ and creates this source:
+
+	{% assign img = 'http://hackniac.com/images/posts/simulacrum' %}
+
+	![front face]({{ img }}/front.jpg)
+	![parts]({{ img }}/front.jpg)
+	![vm_run]({{ img }}/front.jpg)
+	![watch_hello]({{ img }}/front.jpg)
+	![watch_side]({{ img }}/front.jpg)
+
 * connect a post to an image directory
