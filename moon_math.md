@@ -1,5 +1,6 @@
 <!--- TODO
 * explanation for the inaccuracy of the calculation with the actual numbers
+* diagram of the problem (right triangle)
 -->
 
 During a recent long car ride my little brother was bored. Pondering idly, I guess, he asked how far away the moon is from the Earth. I felt like doing some math, so I showed him how to work out the answer to his question using only the few hazily remembered quantities we had floating around in our heads. The number we came to was 251,000 miles. It gave us great surprise to later look up the real number: 250,590 miles (only accurate for that time - it oscillates with great amplitude over time). Even though our surprising accuracy was mostly a product of luck, I'll go through how we worked the numbers.
