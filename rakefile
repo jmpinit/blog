@@ -1,0 +1,10 @@
+require 'rake'
+
+task :pub, :name do |t, args|
+	puts "Args were: #{args[:name]}"
+	if not File.exists? "./#{args[:name]}"
+		puts "FAIL"
+	else
+		puts "OKAY"
+	end
+end
