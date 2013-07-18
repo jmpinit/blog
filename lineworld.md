@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2011-12-11 22:33:22
-layout: post
-slug: lineworld
 title: Lineworld
-wordpress_id: 738
-categories:
-- Art
-- Software
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/12/Explosion.png)](http://www.hackniac.com/blog/wp-content/uploads/2011/12/Explosion.png)

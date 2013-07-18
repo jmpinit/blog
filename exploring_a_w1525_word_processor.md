@@ -1,20 +1,6 @@
 ---
-comments: true
 date: 2010-03-20 01:32:26
-layout: post
-slug: exploring-a-w1525-word-processor
 title: Exploring a W1525 Word Processor
-wordpress_id: 368
-categories:
-- Exploration
-- Modification
-- Relic
-tags:
-- datasheets
-- disassemble
-- disassembly
-- hack
-- tear-down
 ---
 
 From my old hackniac blog.

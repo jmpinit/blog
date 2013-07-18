@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2012-09-04 20:05:58
-layout: post
-slug: javascript-experiments
 title: Javascript Experiments
-wordpress_id: 1313
-categories:
-- Demo
-- Software
 ---
 
 I've been playing around with Javascript for a few months. Here are some of the little silly things that I've come up with:

@@ -1,12 +1,6 @@
 ---
-comments: true
 date: 2012-07-08 19:03:27
-layout: post
-slug: introducing-nibble-working-title
 title: Introducing Nibble (working title)
-wordpress_id: 1208
-categories:
-- Concept
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/07/mockup_edit-1024x531.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/07/mockup_edit.jpg)

@@ -1,21 +1,6 @@
 ---
-comments: true
 date: 2010-09-20 00:32:26
-layout: post
-slug: the-deep-magic-project
 title: The Deep Magic Project
-wordpress_id: 26
-categories:
-- Concept
-tags:
-- assembly
-- calc
-- classroom
-- communication
-- plan
-- school
-- texas instruments
-- ti
 ---
 
 ### Introduction

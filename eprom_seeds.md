@@ -1,12 +1,6 @@
 ---
-comments: true
 date: 2011-08-24 15:15:50
-layout: post
-slug: eprom-seeds
 title: EPROM Seeds
-wordpress_id: 547
-categories:
-- Thought
 ---
 
 I've got at least a dozen ancient EPROMs lying around inside various pieces of junk or loose in my parts bins. They are not really useful to me for any particular purpose anymore because I don't have the equipment to write new data onto them so I have been thinking about ways to use them.

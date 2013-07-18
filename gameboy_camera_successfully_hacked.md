@@ -1,21 +1,6 @@
 ---
-comments: true
 date: 2012-03-11 17:27:21
-layout: post
-slug: gameboy-camera-successfully-hacked
 title: Gameboy Camera Successfully Hacked
-wordpress_id: 1122
-categories:
-- Demo
-- Modification
-- Software
-tags:
-- avr
-- camera
-- gameboy
-- hack
-- nintendo
-- satellite
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/03/gameboy_cam.png)](http://www.hackniac.com/blog/wp-content/uploads/2012/03/gameboy_cam.png)

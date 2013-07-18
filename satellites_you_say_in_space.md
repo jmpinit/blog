@@ -1,17 +1,6 @@
 ---
-comments: true
 date: 2012-04-15 18:07:55
-layout: post
-slug: satellites-you-say-in-space
 title: Satellites You Say? In Space?
-wordpress_id: 1175
-categories:
-- Concept
-- Status
-tags:
-- ersat
-- network
-- satellite
 ---
 
 No no no. Unfortunately no. My [ersat project](http://www.hackniac.com/blog/2012/01/07/ersat-teaser/) has been on the rocks for the past month (or two?) because of the recent intensifying of the helter-skelter pitter-patterings of my life. However, today marks the start of a new stage in the project, in a completely new direction.

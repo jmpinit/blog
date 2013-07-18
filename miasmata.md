@@ -1,14 +1,6 @@
 ---
-comments: true
 date: 2012-08-15 17:44:03
-layout: post
-slug: miasmata
 title: Miasmata
-wordpress_id: 976
-categories:
-- Demo
-- Failures
-- Software
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/02/Miasmata_Prealpha.png)](http://www.hackniac.com/blog/wp-content/uploads/2012/02/Miasmata_Prealpha.png)

@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2012-01-02 14:38:08
-layout: post
-slug: incomplete-flash-game-hackwire
 title: 'Flash Game Experiment: Hackwire'
-wordpress_id: 516
-categories:
-- Demo
-- Software
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/09/hackwire_plug.png)](http://www.hackniac.com/blog/wp-content/uploads/2011/09/hackwire_plug.png)

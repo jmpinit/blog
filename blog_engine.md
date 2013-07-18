@@ -1,18 +1,6 @@
 ---
-comments: true
 date: 2009-11-15 00:52:30
-layout: post
-slug: blog-engine
 title: Blog Engine
-wordpress_id: 333
-categories:
-- Relic
-- Software
-- Utility
-tags:
-- learning
-- php
-- reinventing the wheel
 ---
 
 From my old hackniac blog

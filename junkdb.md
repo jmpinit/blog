@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2011-07-22 18:55:16
-layout: post
-slug: junkdb
 title: JunkDB
-wordpress_id: 483
-categories:
-- Software
-- Utility
 ---
 
 Over the years I have hoarded a huge amount of junked toys, computers, appliances, gadgets, and other stuff to have raw material for building things. I didn't start out with a plan for organizing it; I just took over any unused space around my house. Of course my parents did not like that and before long they asked me to confine my mess to our attic. I _mostly_ did, and by now it has taken over everything up there:

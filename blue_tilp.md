@@ -1,23 +1,6 @@
 ---
-comments: true
 date: 2012-04-09 17:10:24
-layout: post
-slug: blue-tilp
 title: Blue TILP
-wordpress_id: 1139
-categories:
-- Modification
-- Utility
-tags:
-- attiny
-- avr
-- bluetooth
-- calculator
-- hack
-- mod
-- texas instruments
-- ti link protocol
-- tilp
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/03/calc_front.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/03/calc_front.jpg)

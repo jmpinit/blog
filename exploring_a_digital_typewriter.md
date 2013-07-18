@@ -1,20 +1,6 @@
 ---
-comments: true
 date: 2010-04-01 00:38:29
-layout: post
-slug: exploring-a-digital-typewriter
 title: Exploring a Digital Typewriter
-wordpress_id: 313
-categories:
-- Exploration
-- Modification
-- Relic
-tags:
-- ancient
-- datasheets
-- hack
-- microcontroller
-- old
 ---
 
 From my old hackniac blog.

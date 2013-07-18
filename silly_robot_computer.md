@@ -1,20 +1,6 @@
 ---
-comments: true
 date: 2009-11-15 01:22:06
-layout: post
-slug: silly-robot-computer
 title: Silly Robot Computer
-wordpress_id: 359
-categories:
-- Art
-- Modification
-- Relic
-tags:
-- cardboard
-- fast
-- fun
-- playful
-- random
 ---
 
 From my old hackniac blog

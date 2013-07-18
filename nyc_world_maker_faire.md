@@ -1,17 +1,6 @@
 ---
-comments: true
 date: 2010-09-27 01:35:28
-layout: post
-slug: nyc-world-maker-faire
 title: NYC World Maker Faire
-wordpress_id: 42
-categories:
-- Adventure
-- Favorites
-tags:
-- faire
-- hackers
-- maker
 ---
 
 * ![](http://www.hackniac.com/blog/wp-content/uploads/2010/09/IMG_0542.jpg)

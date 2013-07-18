@@ -1,24 +1,6 @@
 ---
-comments: true
 date: 2011-06-23 19:06:38
-layout: post
-slug: attiny13-and-nokia-3310-lcd
 title: Attiny13 and Nokia 3310 LCD
-wordpress_id: 183
-categories:
-- Demo
-- Favorites
-tags:
-- assembly
-- attiny13
-- avr
-- button
-- image
-- lcd
-- nokia
-- nokia 3310
-- text
-- tile
 ---
 
 (I wrote the beginning of this article in the middle of the school year and just finished it today. If you want to see where this project led me, check out [this post](http://www.hackniac.com/blog/2012/02/01/tiny-miasmata/))

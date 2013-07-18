@@ -1,24 +1,6 @@
 ---
-comments: true
 date: 2010-03-30 00:48:51
-layout: post
-slug: barnacle
 title: Barnacle
-wordpress_id: 330
-categories:
-- Concept
-- Device
-- Relic
-- Utility
-tags:
-- editor
-- greyport
-- portable
-- texas instruments
-- ti
-- tibasic
-- tool
-- utility
 ---
 
 From my old hackniac blog.

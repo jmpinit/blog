@@ -1,23 +1,6 @@
 ---
-comments: true
 date: 2010-02-13 01:17:54
-layout: post
-slug: ram-flier
 title: Ram Flyer
-wordpress_id: 355
-categories:
-- Art
-- Demo
-- Favorites
-- Relic
-- Software
-tags:
-- assembly
-- fancy
-- memory
-- pattern
-- random
-- visual
 ---
 
 From my old hackniac blog.

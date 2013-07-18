@@ -1,10 +1,6 @@
 ---
-comments: true
 date: 2013-02-01 13:02:55
-layout: post
-slug: my-colossal-cue-adventure
 title: My Colossal Cue Adventure
-wordpress_id: 1509
 desc: my attempt at a fun text adventure programming game
 ---
 

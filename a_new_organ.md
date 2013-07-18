@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2012-10-06 23:16:47
-layout: post
-slug: a-new-organ
 title: A New Organ
-wordpress_id: 1376
-categories:
-- Art
-- Modification
 ---
 
 During MIT orientation week I received a total of 3 bags during various activities. They're crappy cheap fabric drawstring bags, but they have been very useful for lugging things like books around. I have turned one of them into a [liver](http://dnok91peocsw3.cloudfront.net/inspiration/87072-612x612-1.png) bag. It's inspired by the human liver and that bag that guy wears in that video game about assassins my brothers play all the time (I'm kidding, the game is Assassin's Creed and I'm talking about [Desmond Mile's backpack](http://i43.tinypic.com/2u3wm5s.jpg)).

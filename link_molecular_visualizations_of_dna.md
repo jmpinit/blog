@@ -1,14 +1,7 @@
 ---
-comments: true
 date: 2012-08-21 08:15:36
-layout: post
-slug: link-molecular-visualizations-of-dna
 title: 'Link: Molecular Visualizations of DNA'
-wordpress_id: 1247
-categories:
-- Thought
 post_format:
-- Link
 ---
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/4PKjF7OumYo?rel=0" frameborder="0" allowfullscreen></iframe>

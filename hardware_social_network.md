@@ -1,12 +1,6 @@
 ---
-comments: true
 date: 2011-12-11 23:15:31
-layout: post
-slug: hardware-social-network
 title: Hardware Social Network
-wordpress_id: 603
-categories:
-- Concept
 ---
 
 

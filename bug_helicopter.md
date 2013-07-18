@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2012-09-04 19:25:10
-layout: post
-slug: bug-helicopter
 title: Bug Helicopter
-wordpress_id: 1315
-categories:
-- Failures
-- Modification
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/09/2012-07-24-21.13.11-1024x726.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/09/2012-07-24-21.13.11.jpg)

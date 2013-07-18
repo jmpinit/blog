@@ -1,14 +1,7 @@
 ---
-comments: true
 date: 2012-11-11 13:32:11
-layout: post
-slug: currentrecent-projects-october-november-2012
 title: Current/Recent Projects - (October->November) 2012
-wordpress_id: 1406
-categories:
-- Status
 post_format:
-- Gallery
 ---
 
 Need more lifetimes to burn.

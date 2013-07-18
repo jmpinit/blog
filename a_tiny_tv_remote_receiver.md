@@ -1,14 +1,6 @@
 ---
-comments: true
 date: 2011-12-11 21:48:41
-layout: post
-slug: a-tiny-tv-remote-receiver
 title: A Tiny TV Remote Receiver
-wordpress_id: 742
-categories:
-- Device
-- Favorites
-- Utility
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/12/front_face-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/12/front_face-e1323636373580.jpg)

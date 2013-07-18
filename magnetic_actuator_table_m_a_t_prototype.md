@@ -1,14 +1,6 @@
 ---
-comments: true
 date: 2011-12-31 23:38:27
-layout: post
-slug: magnetic-actuator-table-m-a-t-prototype
 title: Magnetic Actuator Table (M.A.T.) - Prototype
-wordpress_id: 518
-categories:
-- Concept
-- Exploration
-- Software
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/12/mat_circuit.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/12/mat_circuit.jpg)

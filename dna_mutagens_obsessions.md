@@ -1,12 +1,6 @@
 ---
-comments: true
 date: 2012-03-02 02:49:12
-layout: post
-slug: dna-mutagens-obsessions
 title: DNA, Mutagens, Obsessions (meandering rant)
-wordpress_id: 1109
-categories:
-- Status
 ---
 
 I'm currently beset by unfortunately massive volumes of school work. The little time on the side that I have had has been devoted to making incremental additions to my ersat project. However, today that routine was not followed. I have been reading Silent Spring, which is the book that in large part sparked the environmental movement, admittedly for a school assignment. I reached a chapter about the genetic damage that certain chemicals are able to create in plants and animals - and very suprisingly, was deeply inspired.

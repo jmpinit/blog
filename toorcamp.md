@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2012-09-04 19:12:53
-layout: post
-slug: toorcamp
 title: Toorcamp
-wordpress_id: 1319
-categories:
-- Adventure
-- Status
 ---
 
 Like Burning Man, but Canadian (almost).

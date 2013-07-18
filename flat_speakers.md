@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2011-09-02 15:42:51
-layout: post
-slug: flat-speakers
 title: Flat Speakers
-wordpress_id: 592
-categories:
-- Concept
-- Relic
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/09/flat_speaker_side.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/09/flat_speaker_side.jpg)

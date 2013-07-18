@@ -1,15 +1,7 @@
 ---
-comments: true
 date: 2012-11-11 14:55:13
-layout: post
-slug: altoids-tin-pov
 title: Altoids Tin POV
-wordpress_id: 479
-categories:
-- Device
-- Relic
 post_format:
-- Gallery
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/07/pov_held-300x298.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/07/pov_held.jpg)

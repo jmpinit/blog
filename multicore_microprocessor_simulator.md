@@ -1,14 +1,6 @@
 ---
-comments: true
 date: 2011-12-31 19:26:29
-layout: post
-slug: multicore-microprocessor-simulator
 title: Multicore Microprocessor Simulator
-wordpress_id: 774
-categories:
-- Exploration
-- Favorites
-- Software
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/12/multicore_layout1.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/12/multicore_layout1.jpg)

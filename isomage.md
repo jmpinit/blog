@@ -1,20 +1,6 @@
 ---
-comments: true
 date: 2009-10-23 00:59:30
-layout: post
-slug: isomage
 title: Isomage
-wordpress_id: 341
-categories:
-- Art
-- Relic
-- Software
-tags:
-- image
-- java
-- picture
-- processing
-- visual
 ---
 
 From my old hackniac blog

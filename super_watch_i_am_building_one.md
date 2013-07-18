@@ -1,12 +1,6 @@
 ---
-comments: true
 date: 2011-08-24 14:29:03
-layout: post
-slug: super-watch-i-am-building-one
 title: 'Super Watch: I am building one.'
-wordpress_id: 536
-categories:
-- Thought
 ---
 
 Rules

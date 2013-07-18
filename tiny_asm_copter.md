@@ -1,20 +1,6 @@
 ---
-comments: true
 date: 2011-06-23 20:22:02
-layout: post
-slug: tiny-asm-copter
 title: Tiny Asm-Copter
-wordpress_id: 268
-categories:
-- Concept
-- Device
-- Favorites
-tags:
-- assembly
-- attiny13
-- avr
-- button
-- lcd
 ---
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/p_Sm2s3hkeo?rel=0" frameborder="0" allowfullscreen></iframe>

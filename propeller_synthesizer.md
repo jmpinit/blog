@@ -1,25 +1,6 @@
 ---
-comments: true
 date: 2010-03-28 01:25:10
-layout: post
-slug: propeller-synthesizer
 title: Propeller Synthesizer
-wordpress_id: 361
-categories:
-- Device
-- Favorites
-- Modification
-- Relic
-tags:
-- battery-powered
-- hack
-- ibm keyboard
-- leds
-- parallax
-- portable
-- prop
-- propeller
-- self-contained
 ---
 
 From my old hackniac blog.

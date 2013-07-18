@@ -1,26 +1,6 @@
 ---
-comments: true
 date: 2009-11-14 01:06:37
-layout: post
-slug: legoaim
 title: LegoAIM
-wordpress_id: 346
-categories:
-- Demo
-- Device
-- Modification
-- Relic
-- Software
-tags:
-- arduino
-- bluetooth
-- communication
-- hack
-- i2c
-- lego
-- nxt
-- sensor
-- wireless
 ---
 
 From my old hackniac blog

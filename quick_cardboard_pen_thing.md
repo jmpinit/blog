@@ -1,12 +1,6 @@
 ---
-comments: true
 date: 2012-08-21 15:18:22
-layout: post
-slug: quick-cardboard-pen-thing
 title: Quick Cardboard Pen Thing
-wordpress_id: 1239
-categories:
-- Utility
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/08/pen_organizer_sm.png)](http://www.hackniac.com/blog/wp-content/uploads/2012/08/pen_organizer_sm.png)

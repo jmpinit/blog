@@ -1,19 +1,6 @@
 ---
-comments: true
 date: 2011-06-21 13:26:18
-layout: post
-slug: simple-amplifying-speaker
 title: Simple Amplifying Speaker
-wordpress_id: 238
-categories:
-- Modification
-- Utility
-tags:
-- amp
-- amplifier
-- audio
-- hot glue
-- speaker
 ---
 
 I love listening to music while I am working, but the only device I have to make the sounds is my netbook, which has horrible tiny speakers. Usually I steal the speakers from the family desktop PC, which have an amplifier built in, but of course my family does not like that. I finally got around to building a solution.

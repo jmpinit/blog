@@ -1,14 +1,6 @@
 ---
-comments: true
 date: 2012-11-11 16:19:27
-layout: post
-slug: failed-cnc-machine
 title: Failed CNC Machine
-wordpress_id: 467
-categories:
-- Device
-- Failures
-- Utility
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/07/cnc_overview-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/07/cnc_overview.jpg)

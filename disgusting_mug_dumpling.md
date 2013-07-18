@@ -1,8 +1,6 @@
 ---
-layout: post
 title: "Disgusting Mug Dumpling"
 date: 2013-03-01 16:52
-comments: true
 desc: it tastes better than it looks
 ---
 

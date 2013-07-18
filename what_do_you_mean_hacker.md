@@ -1,14 +1,6 @@
 ---
-comments: true
 date: 2012-01-12 21:08:16
-layout: post
-slug: what-do-you-mean-hacker
 title: What Do You Mean 'Hacker'?
-wordpress_id: 919
-categories:
-- Exploration
-tags:
-- philosophy
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/01/eye_open_small.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/01/eye_open_small.jpg)

@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2012-01-07 17:33:30
-layout: post
-slug: connecting-a-hard-drive-to-an-mcu
 title: Connecting a Hard Drive to an MCU
-wordpress_id: 520
-categories:
-- Demo
-- Exploration
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/07/board-e1325956514326.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/07/board-e1325956514326.jpg)

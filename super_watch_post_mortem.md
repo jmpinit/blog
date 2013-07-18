@@ -1,17 +1,6 @@
 ---
-comments: true
 date: 2012-01-12 01:13:23
-layout: post
-slug: super-watch-post-mortem
 title: Super Watch Post-Mortem
-wordpress_id: 903
-categories:
-- Device
-- Status
-tags:
-- ambition
-- attempt
-- failure
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/01/watch_back-1024x980.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/01/watch_back.jpg)

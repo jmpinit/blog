@@ -1,23 +1,6 @@
 ---
-comments: true
 date: 2010-01-23 01:19:47
-layout: post
-slug: respeaker
 title: Respeaker
-wordpress_id: 357
-categories:
-- Concept
-- Device
-- Relic
-tags:
-- avr
-- gadget
-- microcontroller
-- portable
-- pwm
-- synthesis
-- toy
-- wavetable
 ---
 
 From my old hackniac blog.

@@ -1,21 +1,6 @@
 ---
-comments: true
 date: 2010-09-21 23:01:06
-layout: post
-slug: mstick-a-prop-based-music-player
 title: 'MStick: A Prop-Based Music Player'
-wordpress_id: 49
-categories:
-- Device
-- Favorites
-tags:
-- music
-- parallax
-- player
-- prop
-- propeller
-- sd card
-- wav
 ---
 
 Initial Design

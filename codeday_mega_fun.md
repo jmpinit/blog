@@ -1,18 +1,7 @@
 ---
-comments: true
 date: 2012-07-08 13:43:41
-layout: post
-slug: codeday-mega-fun
 title: Codeday MEGA Fun
-wordpress_id: 1202
-categories:
-- Adventure
-- Demo
-- Failures
 post_format:
-- Video
-tags:
-- Codeday
 ---
 
 I participated in Codeday MEGA put on in Redmond at Thinkspace by StudentRND. It was 30 hours of programming intended to produce either a mobile app or a game.

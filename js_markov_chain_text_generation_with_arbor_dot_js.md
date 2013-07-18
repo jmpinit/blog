@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "JS Markov Chain Text Generation With Arbor.js"
 date: 2013-05-02 15:54
-comments: true
-categories: 
 ---
 
 <font face="Arial, Garamond">

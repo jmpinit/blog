@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2012-11-11 15:25:05
-layout: post
-slug: midipus
 title: Midipus
-wordpress_id: 1090
-categories:
-- Art
-- Device
 ---
 
 Project is one year old from the time I wrote this article about it.

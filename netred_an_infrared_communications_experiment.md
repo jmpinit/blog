@@ -1,19 +1,6 @@
 ---
-comments: true
 date: 2011-02-18 17:26:48
-layout: post
-slug: netred-an-infrared-communications-experiment
 title: Netred - An Infrared Communications Experiment
-wordpress_id: 214
-categories:
-- Concept
-- Favorites
-tags:
-- calc
-- communication
-- infrared
-- ir
-- network
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/02/kibnet-e1298050576855.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/02/kibnet-e1298050576855.jpg)

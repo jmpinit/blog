@@ -1,28 +1,6 @@
 ---
-comments: true
 date: 2010-04-02 01:29:26
-layout: post
-slug: ti-touch
 title: TI Calc Touch Screen Mod
-wordpress_id: 365
-categories:
-- Demo
-- Device
-- Favorites
-- Modification
-- Relic
-- Software
-tags:
-- arduino
-- calc
-- calculator
-- hack
-- nintendo ds
-- screen
-- sparkfun
-- texas instruments
-- ti
-- touch
 ---
 
 From my old hackniac blog.

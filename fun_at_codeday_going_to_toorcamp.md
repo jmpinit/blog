@@ -1,16 +1,7 @@
 ---
-comments: true
 date: 2012-08-07 09:39:48
-layout: post
-slug: fun-at-codeday-going-to-toorcamp
 title: Fun at Codeday + Going to Toorcamp
-wordpress_id: 1242
-categories:
-- Adventure
-- Demo
-- Software
 post_format:
-- Link
 ---
 
 I haven't had much time lately to write blog posts, but dumping links doesn't take very long.

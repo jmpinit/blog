@@ -1,20 +1,6 @@
 ---
-comments: true
 date: 2009-10-22 00:54:04
-layout: post
-slug: ditherer
 title: Ditherer
-wordpress_id: 335
-categories:
-- Art
-- Relic
-- Software
-tags:
-- image
-- java
-- picture
-- processing
-- visual
 ---
 
 From my old hackniac blog

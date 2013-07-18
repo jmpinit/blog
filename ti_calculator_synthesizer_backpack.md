@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2012-11-11 16:35:36
-layout: post
-slug: ti-calculator-synthesizer-backpack
 title: TI Calculator Synthesizer Backpack
-wordpress_id: 465
-categories:
-- Dash
-- Device
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/07/tynth_side-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/07/tynth_side.jpg)

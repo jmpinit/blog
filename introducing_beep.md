@@ -1,21 +1,6 @@
 ---
-comments: true
 date: 2011-06-21 15:34:45
-layout: post
-slug: introducing-beep
 title: Introducing beep
-wordpress_id: 246
-categories:
-- Art
-- Concept
-- Demo
-- Favorites
-tags:
-- ai
-- attiny2313
-- friend
-- robot
-- toy
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/06/beep_front-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/06/beep_front.jpg)

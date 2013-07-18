@@ -1,14 +1,6 @@
 ---
-comments: true
 date: 2012-01-07 17:24:58
-layout: post
-slug: ersat-teaser
 title: Ersat Teaser
-wordpress_id: 863
-categories:
-- Concept
-- Exploration
-- Favorites
 ---
 
 I take on an especially challenging project every year, with the goal of testing the limits of my existing knowledge and pushing it further. This is my big project for this year. I have set it up as an official independent study with my high school, so I will be giving a presentation on it to a group of students and teachers in the Spring and will receive credit towards graduation for it. I haven't divulged much about it here on my blog up to this point except for small references to it in posts about proofs of concepts I've made for it (see [IR receiver project](http://www.hackniac.com/posts/a-tiny-tv-remote-receiver.html)). Now that I have finished applying to college I have a window of opportunity to sink a lot of effort into it, so I have decided that it is time to spill the beans on the project. What follows is the project proposal that I submitted to my school to allow it to count as an independent study, and a sampling of the sketches that I've done to flesh out the project over the last few months.

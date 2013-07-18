@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "Slope Field Visualization"
 date: 2013-03-01 17:21
-comments: true
-categories: 
 desc: little tool for vector field visualization
 ---
 

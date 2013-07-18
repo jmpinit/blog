@@ -1,13 +1,6 @@
 ---
-comments: true
 date: 2012-11-11 14:50:08
-layout: post
-slug: the-death-of-black-pepper-hacking-and-emotions
 title: The Death of Black Pepper - Hacking and Emotions
-wordpress_id: 1452
-categories:
-- Device
-- Failures
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/11/birthnight-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/11/birthnight.jpg)

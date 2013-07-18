@@ -1,15 +1,6 @@
 ---
-comments: true
 date: 2012-09-04 17:37:03
-layout: post
-slug: greyport-keyboard
 title: Greyport Keyboard
-wordpress_id: 1092
-categories:
-- Device
-- Favorites
-tags:
-- atmega168 avr keyboard embedded serial baud 9600
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/09/keyboard_top-1024x566.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/09/keyboard_top.jpg)

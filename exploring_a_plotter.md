@@ -1,20 +1,6 @@
 ---
-comments: true
 date: 2010-01-26 01:10:32
-layout: post
-slug: exploring-a-plotter
 title: Exploring a Plotter
-wordpress_id: 349
-categories:
-- Exploration
-- Modification
-- Relic
-tags:
-- ancient
-- hack
-- old
-- repurpose
-- stepper
 ---
 
 From my old hackniac blog.

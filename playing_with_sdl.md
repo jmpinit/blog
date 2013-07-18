@@ -1,14 +1,6 @@
 ---
-comments: true
 date: 2012-09-27 20:19:25
-layout: post
-slug: playing-with-sdl
 title: Playing with SDL
-wordpress_id: 1369
-categories:
-- Demo
-- Exploration
-- Software
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/09/3dconway-1024x576.png)](http://www.hackniac.com/blog/wp-content/uploads/2012/09/3dconway.png)

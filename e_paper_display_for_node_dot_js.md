@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "E-Paper display for Node.js"
 date: 2013-02-25 09:08
-comments: true
-categories: 
 ---
 
 I got a Nook Touch e-reader second hand, rooted it, wrote an android app for it, and wrote a tiny Node.js server to talk to the app so that I could have a remotely-controlled low-power monochrome display. The server sends bitmaps to the Nook using Sockets, so any arbitrary B&W image can be displayed on the Nook remotely, as long as it is connected to the internet.

@@ -1,24 +1,6 @@
 ---
-comments: true
 date: 2010-04-04 01:27:09
-layout: post
-slug: ti-83-uart
 title: TI 83+ UART
-wordpress_id: 363
-categories:
-- Demo
-- Modification
-- Relic
-- Software
-- Utility
-tags:
-- assembly
-- calculator
-- communication
-- serial
-- texas instruments
-- ti
-- uart
 ---
 
 From my old hackniac blog.
