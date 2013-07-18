@@ -15,10 +15,7 @@ categories:
 
 ## Math Class + Music?
 
-
-For one of my personal hackathons a year or so ago I made this audio synthesizer backpack for my TI 84+. It contains an [Atmega168 emulating a SID](http://www.roboterclub-freiburg.de/atmega_sound/atmegaSID.html) (sound chip in the Commodore64) and audio amplification circuitry as well as a 9v battery for power. The backpack gets commands from the calculator through the link cable. It uses the [TI UART code](http://www.hackniac.com/blog/?p=363) that I wrote so long ago to talk to the Atmega168 in its native tongue. From TI-BASIC I can do 45:Asm(prgmTX) and the number 45 will get sent to the Atmega168. Using some simple commands registers can be set in the emulated SID, and sounds result.
-
-<!--more-->
+For one of my personal hackathons a year or so ago I made this audio synthesizer backpack for my TI 84+. It contains an [Atmega168 emulating a SID](http://www.roboterclub-freiburg.de/atmega_sound/atmegaSID.html) (sound chip in the Commodore64) and audio amplification circuitry as well as a 9v battery for power. The backpack gets commands from the calculator through the link cable. It uses the [TI UART code](http://www.hackniac.com/posts/ti-83-uart.html) that I wrote so long ago to talk to the Atmega168 in its native tongue. From TI-BASIC I can do 45:Asm(prgmTX) and the number 45 will get sent to the Atmega168. Using some simple commands registers can be set in the emulated SID, and sounds result.
 
 The case is an Altoids tin. I hot-glued pieces of metal to a spare calculator shell that I had so that I could bolt the case on. It worked pretty well and made the final result significantly more polished.
 
