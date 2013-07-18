@@ -77,7 +77,7 @@ I had planned to do a project to send with my mid-year report, but I didn't know
 Ignore the snazzy portmanteau (it's really quite simple)
 --------------------------------------------------------
 
-The idea for this project was incepted by my previous [TinyAsmCopter project](http://www.hackniac.com/blog/?p=268). Demomite is a tiny handheld game device designed to provide a platform for software demos. In the computing world a demo is a demonstration of programming/artistic/musical ability. It's specs are severely limited on purpose to make programming for it more challenging**:**
+The idea for this project was incepted by my previous [TinyAsmCopter project](http://www.hackniac.com/posts/tiny-asm-copter.html). Demomite is a tiny handheld game device designed to provide a platform for software demos. In the computing world a demo is a demonstration of programming/artistic/musical ability. It's specs are severely limited on purpose to make programming for it more challenging**:**
 
 
 ### Computing power:

@@ -13,7 +13,7 @@ categories:
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/12/front_face-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/12/front_face-e1323636373580.jpg)
 
-For my large [ersat project](http://www.hackniac.com/blog/?p=863) I need to work out how to use infrared light to send data wirelessly. This project is the first device that I have built to explore the topic. In the near future there will be several more projects involving infrared light that I will be creating, each more complex than the one preceding it.
+For my large [ersat project](http://www.hackniac.com/posts/ersat-teaser.html) I need to work out how to use infrared light to send data wirelessly. This project is the first device that I have built to explore the topic. In the near future there will be several more projects involving infrared light that I will be creating, each more complex than the one preceding it.
 
 <!--more-->
 
@@ -22,7 +22,7 @@ Purpose
 
 As my first step in using infrared light I thought it would be easiest to try to make something that can listen to the signals sent from television remotes, because that is the most common use for infrared light communication technology. As luck would have it I also had a pressing need for hooking a TV remote to my computer: making the Winamp music player controllable from across my room.
 
-I have a [speaker/amplifier](http://www.hackniac.com/blog/?p=238) set up on my desk that I plug my netbook into to play music while I do homework, but I work mostly on my bed on the other side of the room. It quickly becomes annoying to have to stop what I am doing to get up and walk over to my desk to fiddle with the music player. First world problem, I know, but being able to control my music from my bed with a TV remote would be very convenient.
+I have a [speaker/amplifier](http://www.hackniac.com/posts/simple-amplifying-speaker.html) set up on my desk that I plug my netbook into to play music while I do homework, but I work mostly on my bed on the other side of the room. It quickly becomes annoying to have to stop what I am doing to get up and walk over to my desk to fiddle with the music player. First world problem, I know, but being able to control my music from my bed with a TV remote would be very convenient.
 
 
 Implementation

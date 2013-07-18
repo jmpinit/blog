@@ -46,7 +46,7 @@ The second problem is that the power supply never shuts off. The calculator is a
 Implementing the TI Link Protocol
 ---------------------------------
 
-I've made many attempts at reverse-engineering the TI Link protocol over the past few years, and none have been totally successful until now. Communication was so bothersome with the built-in protocol when I made those other attempts that I went as far as to implement UART to use instead (see [this](http://www.hackniac.com/blog/?p=365) project for that code).
+I've made many attempts at reverse-engineering the TI Link protocol over the past few years, and none have been totally successful until now. Communication was so bothersome with the built-in protocol when I made those other attempts that I went as far as to implement UART to use instead (see [this](http://www.hackniac.com/posts/ti-83-uart.html) project for that code).
 
 However, as I've been encountering a lot lately, things I've failed at before are now easily accomplished because of all the knowledge I've gained in the interim. I can't pin down exactly what I didn't understand before about the TILP, but this time I had no trouble implementing it. The Attiny85 can talk easily with the calculator's operating system directly, without needing software modification on the calculator.
 

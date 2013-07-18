@@ -58,7 +58,7 @@ tags:
 - wire
 ---
 
-Tiny Miasmata is the first demo that I have created for my new demo platform, the [Demomite](http://www.hackniac.com/blog/?p=927).The platform is a handheld game device like the Gameboy, and as such it has game controls (an N.E.S. controller), a screen, and sound output. The hardware is very basic. I designed with the sole purpose of providing a very challenging plaform for writing software demos. The hardware itself is a demo, showing what I can do with some spare parts and a day of hard work (see a timelapse of that day [here](http://www.youtube.com/watch?v=cQv1nFnKGu0)).
+Tiny Miasmata is the first demo that I have created for my new demo platform, the [Demomite](http://www.hackniac.com/posts/demomite.html).The platform is a handheld game device like the Gameboy, and as such it has game controls (an N.E.S. controller), a screen, and sound output. The hardware is very basic. I designed with the sole purpose of providing a very challenging plaform for writing software demos. The hardware itself is a demo, showing what I can do with some spare parts and a day of hard work (see a timelapse of that day [here](http://www.youtube.com/watch?v=cQv1nFnKGu0)).
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/02/demomite_use_title_fix.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/02/demomite_use_title_fix.jpg)
 
@@ -67,7 +67,7 @@ Tiny Miasmata is the first demo that I have created for my new demo platform, th
 Purpose
 -------
 
-This game I've made for the [Demomite](http://www.hackniac.com/blog/?p=927) is designed to give a taste of the capabilities of the hardware (much greater than would appear at first), but more importantly to show the colleges I have applied to that I know my stuff. With that latter goal in mind some of my more restrictive design choices make sense, like limiting myself artificially to 1 bit sound and only the internal 128 bytes of RAM when the Attiny2313 brain of the [Demomite](http://www.hackniac.com/blog/?p=927) is actually capable of much more with the help of a few outside parts.
+This game I've made for the [Demomite](http://www.hackniac.com/posts/demomite.html) is designed to give a taste of the capabilities of the hardware (much greater than would appear at first), but more importantly to show the colleges I have applied to that I know my stuff. With that latter goal in mind some of my more restrictive design choices make sense, like limiting myself artificially to 1 bit sound and only the internal 128 bytes of RAM when the Attiny2313 brain of the [Demomite](http://www.hackniac.com/posts/demomite.html) is actually capable of much more with the help of a few outside parts.
 
 
 The Game
