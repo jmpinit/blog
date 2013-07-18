@@ -1,3 +1,7 @@
+---
+desc: git-based system for todo files
+wip: true
+---
 The stuff I like from Workflowy, but under my control.
 
 * removing a task:

@@ -1,0 +1,29 @@
+---
+comments: true
+date: 2009-10-23 00:59:30
+layout: post
+slug: isomage
+title: Isomage
+wordpress_id: 341
+categories:
+- Art
+- Relic
+- Software
+tags:
+- image
+- java
+- picture
+- processing
+- visual
+---
+
+From my old hackniac blog
+
+
+![](http://hackniac.com/images/relic/isomage.png)
+
+I've been having fun processing pictures in strange ways lately, so I decided to look around my drawer of old programs that I abandoned. I found a simple system that I came up with for displaying isometric 3 dimensional images, and have modified it to work with images.
+
+The way it works is fairly simple. Every pixel in the image is looped through. At every pixel a measurement of brightness is made. That measurement is mapped to a value between one and ten. This value dictates how high the isometric tower will be at the position of that pixel in the output image. To make the tower there is a loop that repeats from 0 up to the mapped brightness value, drawing bottom up so that it looks 3 dimensional. By drawing everything in just the right order I can use simple bitmaps of a cube that overlap each other to form the 3d image. The color they are filled in with corresponds to the color in the original image.
+
+There are some weird results, as you can see in the example above. Some images almost map perfectly into 3d representations of the objects that are within them. Others don't work so well for this, or have parts that work better than others. Not much use in it, but it looks pretty cool.

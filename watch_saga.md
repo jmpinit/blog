@@ -1,3 +1,6 @@
+---
+wip: true
+---
 {% assign img = 'http://hackniac.com/images/posts/simulacrum' %}
 
 ![front face]({{ img }}/front.jpg)

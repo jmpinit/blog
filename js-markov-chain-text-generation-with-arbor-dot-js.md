@@ -1,0 +1,21 @@
+---
+layout: post
+title: "JS Markov Chain Text Generation With Arbor.js"
+date: 2013-05-02 15:54
+comments: true
+categories: 
+---
+
+<font face="Arial, Garamond">
+<p id="output"><b>the generated sentence: </b></p>
+</font>
+
+<canvas id="viewport" width="800" height="600"></canvas>
+
+<script src="{{ site.url }}/code/markov/jquery.min.js"></script>
+<script src="{{ site.url }}/code/markov/arbor.js"></script>
+<script src="{{ site.url }}/code/markov/graphics.js"></script>
+<script src="{{ site.url }}/code/markov/renderer.js"></script>
+
+<script src="{{ site.url }}/code/markov/corpus.js"></script>
+<script src="{{ site.url }}/code/markov/markov.js"></script>

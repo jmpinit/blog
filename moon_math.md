@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Moon Math"
+date: 2013-07-14 19:32
+comments: true
+categories:
+wip: true
+---
+
 <!--- TODO
 * explanation for the inaccuracy of the calculation with the actual numbers
 * diagram of the problem (right triangle)
