@@ -12,7 +12,7 @@ categories:
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/11/birthnight-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/11/birthnight.jpg)
 
-My [ersats](http://www.hackniac.com/blog/2012/01/07/ersat-teaser/) project went very well. I learned very much, created a lot of interesting things, and put what I learned into a single demonstrable end product that I managed to get credit for in my last year of highschool (last year). I left for the West after school ended and summer began with the hope that I would return to the project and continue it. Unfortunately things did not go as I had hoped.
+My [ersats](http://www.hackniac.com/posts/ersat-teaser.html) project went very well. I learned very much, created a lot of interesting things, and put what I learned into a single demonstrable end product that I managed to get credit for in my last year of highschool (last year). I left for the West after school ended and summer began with the hope that I would return to the project and continue it. Unfortunately things did not go as I had hoped.
 
 <!--more-->
 
