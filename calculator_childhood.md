@@ -1,5 +1,5 @@
 ---
-date: 2011-07-19
+date: 2011-07-19 22:33:33
 wip: true
 ---
 <style>
@@ -12,7 +12,7 @@ img {
 Calculator Childhood
 ====================
 
-2nd + 7 1 2 will always be ingrained in my memory.
+_"2nd, +, 7, 1, 2"_ will always be ingrained in my memory.
 
 1. Extract programs from group files into folders
 2. General notes on each program
