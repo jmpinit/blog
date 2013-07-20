@@ -14,6 +14,9 @@ Calculator Childhood
 
 _"2nd, +, 7, 1, 2"_ will always be ingrained in my memory.
 
+Archival process
+================
+
 1. Extract programs from group files into folders
 2. General notes on each program
 3. Images/gifs of program operation
