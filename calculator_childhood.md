@@ -457,25 +457,45 @@ A
 -
 
 #### ANIM
+
 #### ASCII
+
 #### BINTODEC
+
 #### CIRCFILL
+
 #### COOR
+
 #### DRWTET
+
 #### ENCODE
+
 #### EXIT
+
 #### INVADERS
+
 #### KEY
+
 #### NUMALPHA
+
 #### PICHAN
+
 #### PICSAVE
+
 #### PIXIO
+
 #### PRAND
+
 #### RAND
+
 #### REPLAY
+
 #### SAND
+
 #### SNAKB
+
 #### TEST
+
 #### TMAZE
 
 B
