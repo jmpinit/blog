@@ -5,7 +5,7 @@ wip: true
 <style>
 img {
 	margin: 0px;
-	border: 2x solid #021a40;
+	border: 2px solid #021a40;
 }
 </style>
 
@@ -20,13 +20,6 @@ _"2nd, +, 7, 1, 2"_ will always be ingrained in my memory.
 4. Explanation of how they work
 5. Annotated source code using [sourcecoder](http://www.cemetech.net/projects/basicelite/sourcecoder2.php)
 6. Modify to fix bugs
-
-Tools to make this
-==================
-
-* TilEm
-* TiLP
-* Cemetek's [Sourcecoder](http://www.cemetech.net/projects/basicelite/sourcecoder2.php)
 
 The programs
 ============
@@ -482,3 +475,10 @@ B
 #### RACER
 
 ![RACER](../images/calculator_childhood/RACER.gif)
+
+Tools to make this
+==================
+
+* TilEm
+* TiLP
+* Cemetek's [Sourcecoder](http://www.cemetech.net/projects/basicelite/sourcecoder2.php)
