@@ -13,3 +13,5 @@ For one of my personal hackathons a year or so ago I made this audio synthesizer
 The case is an Altoids tin. I hot-glued pieces of metal to a spare calculator shell that I had so that I could bolt the case on. It worked pretty well and made the final result significantly more polished.
 
 It was quite fun to mess around with. I wrote a complex TI BASIC program that served as a tracker (picture in gallery below). Composition was difficult, but it made simple music possible. Because it only took a day and it looked pretty snazzy it's one of the projects I am more proud of. It was a ton of fun to make.
+
+[galleries broken for now, sorry]
