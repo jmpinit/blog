@@ -31,6 +31,8 @@ Tools to make this
 The programs
 ============
 
+Programs are divided into groups according to the TIG files (group archives) that they were saved in. I tended to develop some programs along a theme and then archive them into a group and start off on a new theme.
+
 italisized = boring math program
 
 ALL
