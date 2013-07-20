@@ -9,6 +9,12 @@ img {
 }
 </style>
 
+<!--
+TODO
+* sort the programs by coolness
+* split groups of programs onto separate pages
+-->
+
 Calculator Childhood
 ====================
 
