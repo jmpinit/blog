@@ -15,7 +15,7 @@ Calculator Childhood
 _"2nd, +, 7, 1, 2"_ will always be ingrained in my memory.
 
 Archival process
-================
+----------------
 
 1. Extract programs from group files into folders
 2. General notes on each program
@@ -25,7 +25,7 @@ Archival process
 6. Modify to fix bugs
 
 The programs
-============
+------------
 
 Programs are divided into groups according to the TIG files (group archives) that they were saved in. I tended to develop some programs along a theme and then archive them into a group and start off on a new theme.
 
@@ -480,7 +480,7 @@ B
 ![RACER](../images/calculator_childhood/RACER.gif)
 
 Tools to make this
-==================
+------------------
 
 * TilEm
 * TiLP
