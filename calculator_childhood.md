@@ -477,6 +477,30 @@ HEXUTIL
 IVDEMOS
 -------
 
+SOLVER
+------
+
+Some sort of maze solver.
+
+TODO: look at source
+
+VERIFY
+------
+
+Symbolic equation solver?
+
+TODO: look at source
+
+CONTROL
+-------
+
+Robot club robot controller.
+
+TOUCH
+-----
+
+TI calculator touch screen.
+
 Tools to make this
 ------------------
 
