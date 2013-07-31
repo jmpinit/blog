@@ -29,4 +29,9 @@ Frustrated with long site generation times using Jekyll, I set out to create a s
 4. New post and index.html are generated.
 5. New post and index are uploaded.
 
+Source Code
+-----------
+
+TODO - link to code
+
 _(It's called oblog because my name is Owen.)_
