@@ -1,6 +1,7 @@
 ---
 wip: true
 date: 2013-07-31 10:19:30
+desc: jekyll-like static blog but faster
 ---
 
 Jekyll-like Static Blog Generator
