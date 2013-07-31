@@ -1,5 +1,6 @@
 ---
 date: Wed Jul 31 12:29:44 EDT 2013
+desc: racing game in node.js
 ---
 
 Derby
