@@ -1,7 +1,9 @@
 ---
 date: Wed Jul 31 13:32:24 EDT 2013
-wip: true
 ---
+New EEE PC 1005HA Power Connector
+=================================
+
 This is the gross battery charger connector for my netbook. I repaired it more than a dozen times until it finally was unworkable. I needed to charge the battery so I added a new connector to the computer.
 
 ![old_connector]({{site.url}}/images/power_mod/old_connector.jpg)
