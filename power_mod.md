@@ -10,3 +10,4 @@ wip: true
 ![partially_assembled]({{site.url}}/images/power_mod/partially_assembled.jpg)
 ![partially_top]({{site.url}}/images/power_mod/partially_top.jpg)
 ![success]({{site.url}}/images/power_mod/success.jpg)
+![finished]({{site.url}}/images/power_mod/finished.jpg)
