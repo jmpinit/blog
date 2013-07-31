@@ -6,6 +6,8 @@ date: 2013-07-31 10:19:30
 Jekyll-like Static Blog Generator
 =================================
 
+![oblog]({{site.url}}/images/oblog/oblog.png)
+
 Frustrated with long site generation times using Jekyll, I set out to create a similar but much simpler system that I could optimize for my needs:
 
 * speed - see rendered changes as soon as possible
@@ -25,3 +27,5 @@ Frustrated with long site generation times using Jekyll, I set out to create a s
 3. Execute "publish".
 4. New post and index.html are generated.
 5. New post and index are uploaded.
+
+_(It's called oblog because my name is Owen.)_
