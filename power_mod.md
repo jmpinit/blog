@@ -1,5 +1,6 @@
 ---
 date: Wed Jul 31 13:32:24 EDT 2013
+desc: new netbook power connector
 ---
 New EEE PC 1005HA Power Connector
 =================================
