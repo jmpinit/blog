@@ -33,3 +33,5 @@ Here it is booted up without a battery, running power across the new connector:
 And here's what it looks like all buttoned up:
 
 ![finished]({{site.url}}/images/power_mod/finished.jpg)
+
+A little silly looking, but very functional. Much better than it was originally, in my opinion. There is a lot more room for flexing so the connector should stop wearing out so quickly. And maybe surprisingly, it doesn't get in the way, because it's within the side profile of the netbook.
