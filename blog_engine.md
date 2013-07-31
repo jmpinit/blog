@@ -1,6 +1,5 @@
 ---
 date: 2009-11-15 00:52:30
-title: Blog Engine
 ---
 
 From my old hackniac blog

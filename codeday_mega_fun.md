@@ -1,7 +1,5 @@
 ---
 date: 2012-07-08 13:43:41
-title: Codeday MEGA Fun
-post_format:
 ---
 
 I participated in Codeday MEGA put on in Redmond at Thinkspace by StudentRND. It was 30 hours of programming intended to produce either a mobile app or a game.

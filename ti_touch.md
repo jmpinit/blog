@@ -1,6 +1,5 @@
 ---
 date: 2010-04-02 01:29:26
-title: TI Calc Touch Screen Mod
 ---
 
 From my old hackniac blog.

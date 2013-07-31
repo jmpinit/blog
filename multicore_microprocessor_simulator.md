@@ -1,6 +1,5 @@
 ---
 date: 2011-12-31 19:26:29
-title: Multicore Microprocessor Simulator
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/12/multicore_layout1.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/12/multicore_layout1.jpg)

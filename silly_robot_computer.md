@@ -1,6 +1,5 @@
 ---
 date: 2009-11-15 01:22:06
-title: Silly Robot Computer
 ---
 
 From my old hackniac blog

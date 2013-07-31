@@ -1,6 +1,5 @@
 ---
 date: 2011-12-11 21:48:41
-title: A Tiny TV Remote Receiver
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/12/front_face-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/12/front_face-e1323636373580.jpg)

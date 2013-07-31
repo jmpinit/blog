@@ -1,6 +1,5 @@
 ---
 date: 2012-08-21 15:18:22
-title: Quick Cardboard Pen Thing
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/08/pen_organizer_sm.png)](http://www.hackniac.com/blog/wp-content/uploads/2012/08/pen_organizer_sm.png)

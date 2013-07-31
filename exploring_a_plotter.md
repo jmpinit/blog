@@ -1,6 +1,5 @@
 ---
 date: 2010-01-26 01:10:32
-title: Exploring a Plotter
 ---
 
 From my old hackniac blog.

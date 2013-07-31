@@ -1,6 +1,5 @@
 ---
 date: 2011-06-23 20:22:02
-title: Tiny Asm-Copter
 ---
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/p_Sm2s3hkeo?rel=0" frameborder="0" allowfullscreen></iframe>

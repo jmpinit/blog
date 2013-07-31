@@ -1,6 +1,5 @@
 ---
 date: 2011-08-24 14:29:03
-title: 'Super Watch: I am building one.'
 ---
 
 Rules

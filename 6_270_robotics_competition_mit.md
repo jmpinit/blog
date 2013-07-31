@@ -1,6 +1,5 @@
 ---
 date: 2013-02-07 09:44:13
-title: 6.270 Robotics Competition @ MIT
 ---
 
 [![duck4](http://www.hackniac.com/blog/wp-content/uploads/2013/02/duck4-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2013/02/duck4.jpg)

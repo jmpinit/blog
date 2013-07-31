@@ -1,6 +1,5 @@
 ---
 date: 2010-09-21 23:01:06
-title: 'MStick: A Prop-Based Music Player'
 ---
 
 Initial Design

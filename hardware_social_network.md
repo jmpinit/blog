@@ -1,6 +1,5 @@
 ---
 date: 2011-12-11 23:15:31
-title: Hardware Social Network
 ---
 
 

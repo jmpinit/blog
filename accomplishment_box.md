@@ -1,6 +1,5 @@
 ---
 date: 2011-08-27 19:26:24
-title: Accomplishment Box
 ---
 
 I have toyed with writing diaries for a long time, and I have many examples of past failures at them lying around. I always started with the romantic notion of one day being able to look back on who I am today but with perspective, and a sharp distrust for my memory. Every attempt was earnest and I was always able to keep it up for a few weeks at least, but inevitably I would fail to take the time to record my thoughts and the attempt would decay.

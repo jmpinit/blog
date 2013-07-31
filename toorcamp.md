@@ -1,6 +1,5 @@
 ---
 date: 2012-09-04 19:12:53
-title: Toorcamp
 ---
 
 Like Burning Man, but Canadian (almost).

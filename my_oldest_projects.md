@@ -1,6 +1,5 @@
 ---
 date: 2011-07-17 16:16:24
-title: My Earliest Projects
 ---
 
 A long time ago I had a [Google site](https://sites.google.com/site/bitwinproject/), before I had a server of my own to use. I posted many of my oldest projects there. During the time that I made those projects I didn't have the knowledge required to work intimately with the electronics of the junk that I was modifying, so most of the projects started out with lofty goals and ended with a piece of partially working mechanical art.

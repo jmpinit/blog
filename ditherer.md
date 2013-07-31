@@ -1,6 +1,5 @@
 ---
 date: 2009-10-22 00:54:04
-title: Ditherer
 ---
 
 From my old hackniac blog

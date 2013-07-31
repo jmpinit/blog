@@ -1,6 +1,5 @@
 ---
 date: 2011-12-11 22:33:22
-title: Lineworld
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/12/Explosion.png)](http://www.hackniac.com/blog/wp-content/uploads/2011/12/Explosion.png)

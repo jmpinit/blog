@@ -1,6 +1,5 @@
 ---
 date: 2011-06-21 15:34:45
-title: Introducing beep
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/06/beep_front-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/06/beep_front.jpg)

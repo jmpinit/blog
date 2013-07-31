@@ -1,6 +1,5 @@
 ---
 date: 2012-09-04 17:37:03
-title: Greyport Keyboard
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/09/keyboard_top-1024x566.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/09/keyboard_top.jpg)

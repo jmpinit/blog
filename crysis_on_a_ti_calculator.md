@@ -1,6 +1,5 @@
 ---
 date: 2011-09-02 15:14:46
-title: Crysis on a TI Calculator
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/09/calc_crisis-1024x402.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/09/calc_crisis.jpg)

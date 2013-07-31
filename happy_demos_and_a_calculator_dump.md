@@ -1,6 +1,5 @@
 ---
 date: 2012-03-16 16:51:06
-title: Happy Demos and a Calculator Dump
 ---
 
 Last week I received an extremely awesome and possibly life-changing opportunity. As a result I became a little feverish with excitement and stopped work on my long term projects. Instead I made a slew of short fun demos on my calculator and elsewhere. I'm going to take this as an opportunity to show the fun things that I've done with my calculator.

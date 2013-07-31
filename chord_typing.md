@@ -1,6 +1,5 @@
 ---
 date: 2011-08-24 14:18:25
-title: Chord Typing
 ---
 
 I was reminded of the concept of chord typing (where many fewer keys are used than on a regular keyboard but multiple keys are pressed at once to type a character) for some reason or another. Now I want to build a keyboard to allow me to learn to do it. I'm mulling over the possibility of making two versions:  a USB or bluetooth interface for use with regular computers and a version to use with my TI 84+ graphing calculator (for super extremely fast program-writing).

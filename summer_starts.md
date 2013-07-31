@@ -1,7 +1,5 @@
 ---
 date: 2011-06-16 01:09:43
-title: Summer Starts!
-post_format:
 ---
 
 With the end of a very inconsequential last couple of days of school, I am finally free for the summer, which means tons of new hacks. First I will rest, then I will code. With luck and perseverance I'm hoping to turn my code into money that I can use to build all of the projects that I've been planning this past school year.

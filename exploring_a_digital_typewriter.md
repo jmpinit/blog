@@ -1,6 +1,5 @@
 ---
 date: 2010-04-01 00:38:29
-title: Exploring a Digital Typewriter
 ---
 
 From my old hackniac blog.

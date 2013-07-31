@@ -1,6 +1,5 @@
 ---
 date: 2011-09-02 15:08:04
-title: Book Bump Map
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/09/book_bump_map-1024x590.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/09/book_bump_map.jpg)

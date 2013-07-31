@@ -1,6 +1,5 @@
 ---
 date: 2010-04-04 01:27:09
-title: TI 83+ UART
 ---
 
 From my old hackniac blog.

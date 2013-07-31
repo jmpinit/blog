@@ -1,6 +1,5 @@
 ---
 date: 2012-11-11 16:19:27
-title: Failed CNC Machine
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/07/cnc_overview-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/07/cnc_overview.jpg)

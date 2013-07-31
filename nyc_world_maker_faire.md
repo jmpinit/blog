@@ -1,6 +1,5 @@
 ---
 date: 2010-09-27 01:35:28
-title: NYC World Maker Faire
 ---
 
 * ![](http://www.hackniac.com/blog/wp-content/uploads/2010/09/IMG_0542.jpg)

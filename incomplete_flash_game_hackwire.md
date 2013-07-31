@@ -1,6 +1,5 @@
 ---
 date: 2012-01-02 14:38:08
-title: 'Flash Game Experiment: Hackwire'
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/09/hackwire_plug.png)](http://www.hackniac.com/blog/wp-content/uploads/2011/09/hackwire_plug.png)

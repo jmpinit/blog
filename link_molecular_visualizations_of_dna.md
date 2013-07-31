@@ -1,7 +1,5 @@
 ---
 date: 2012-08-21 08:15:36
-title: 'Link: Molecular Visualizations of DNA'
-post_format:
 ---
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/4PKjF7OumYo?rel=0" frameborder="0" allowfullscreen></iframe>

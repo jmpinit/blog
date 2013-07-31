@@ -1,6 +1,5 @@
 ---
 date: 2011-09-09 22:26:13
-title: Greyport
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/07/Boarded-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/07/Boarded.jpg)

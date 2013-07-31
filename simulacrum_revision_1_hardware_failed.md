@@ -1,5 +1,4 @@
 ---
-title: "Simulacrum: Revision 1 hardware (failed)"
 date: 2013-06-21 07:34
 wip: true
 ---

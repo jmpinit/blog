@@ -1,6 +1,5 @@
 ---
 date: 2012-04-09 17:10:24
-title: Blue TILP
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/03/calc_front.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/03/calc_front.jpg)

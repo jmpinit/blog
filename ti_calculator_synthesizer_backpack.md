@@ -1,6 +1,5 @@
 ---
 date: 2012-11-11 16:35:36
-title: TI Calculator Synthesizer Backpack
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/07/tynth_side-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/07/tynth_side.jpg)

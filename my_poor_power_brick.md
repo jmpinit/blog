@@ -1,6 +1,5 @@
 ---
 date: 2012-09-03 16:05:37
-title: My Poor Power Brick
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/09/charger_fix-1024x881.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/09/charger_fix.jpg)

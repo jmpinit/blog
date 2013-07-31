@@ -1,6 +1,5 @@
 ---
 date: 2010-01-23 01:19:47
-title: Respeaker
 ---
 
 From my old hackniac blog.

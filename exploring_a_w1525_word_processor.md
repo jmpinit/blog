@@ -1,6 +1,5 @@
 ---
 date: 2010-03-20 01:32:26
-title: Exploring a W1525 Word Processor
 ---
 
 From my old hackniac blog.

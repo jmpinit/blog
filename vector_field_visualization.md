@@ -1,5 +1,4 @@
 ---
-title: "Slope Field Visualization"
 date: 2013-03-01 17:21
 desc: little tool for vector field visualization
 ---

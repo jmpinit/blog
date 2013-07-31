@@ -1,6 +1,5 @@
 ---
 date: 2010-03-28 01:25:10
-title: Propeller Synthesizer
 ---
 
 From my old hackniac blog.

@@ -1,6 +1,5 @@
 ---
 date: 2010-03-30 00:48:51
-title: Barnacle
 ---
 
 From my old hackniac blog.

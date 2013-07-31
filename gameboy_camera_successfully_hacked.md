@@ -1,6 +1,5 @@
 ---
 date: 2012-03-11 17:27:21
-title: Gameboy Camera Successfully Hacked
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/03/gameboy_cam.png)](http://www.hackniac.com/blog/wp-content/uploads/2012/03/gameboy_cam.png)

@@ -1,6 +1,5 @@
 ---
 date: 2009-11-14 01:06:37
-title: LegoAIM
 ---
 
 From my old hackniac blog

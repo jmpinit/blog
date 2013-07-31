@@ -1,5 +1,4 @@
 ---
-title: "Disgusting Mug Dumpling"
 date: 2013-03-01 16:52
 desc: it tastes better than it looks
 ---

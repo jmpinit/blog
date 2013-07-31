@@ -1,5 +1,4 @@
 ---
-title: "Combining C and Rust"
 date: 2013-07-16 11:33
 ---
 

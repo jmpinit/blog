@@ -1,6 +1,5 @@
 ---
 date: 2012-02-02 02:01:34
-title: Tiny Miasmata
 ---
 
 Tiny Miasmata is the first demo that I have created for my new demo platform, the [Demomite](http://www.hackniac.com/posts/demomite.html).The platform is a handheld game device like the Gameboy, and as such it has game controls (an N.E.S. controller), a screen, and sound output. The hardware is very basic. I designed with the sole purpose of providing a very challenging plaform for writing software demos. The hardware itself is a demo, showing what I can do with some spare parts and a day of hard work (see a timelapse of that day [here](http://www.youtube.com/watch?v=cQv1nFnKGu0)).

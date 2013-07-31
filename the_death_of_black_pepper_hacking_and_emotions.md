@@ -1,6 +1,5 @@
 ---
 date: 2012-11-11 14:50:08
-title: The Death of Black Pepper - Hacking and Emotions
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/11/birthnight-1024x768.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/11/birthnight.jpg)

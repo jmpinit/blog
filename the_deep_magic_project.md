@@ -1,6 +1,5 @@
 ---
 date: 2010-09-20 00:32:26
-title: The Deep Magic Project
 ---
 
 ### Introduction

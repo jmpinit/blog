@@ -1,6 +1,5 @@
 ---
 date: 2010-09-20 23:03:08
-title: 'Deep Magic Progress Update #0'
 ---
 
 Today I began project Deep Magic in earnest. I found an old copy of the Z80 instruction set that I had printed out a few months ago and then started printing out the ti83plus include file. I quickly abandoned the idea of printing out the entire include file, it is 84 pages long and so too expensive for my home printer. Maybe I'll print the whole thing sometime on a printer at school, but in the meantime I'll just use the table of RAM locations that I cut out and printed.

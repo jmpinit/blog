@@ -1,6 +1,5 @@
 ---
 date: 2012-02-07 01:19:15
-title: Symbolic Note System
 ---
 
 I'm reading a book called The Plague for my english class and it has triggered an idea for a new note-taking system. The book will be the source of an essay that I will have to write in a month, so I am taking detailed notes while reading it. At first I wrote them on paper, then I tried taking them digitally, but neither worked perfectly. Digital notes can be searched and indexed, but require a clunkier process than simply writing on paper. But paper notes are messy and hard to navigate. What I need is a fast and highly organized system.

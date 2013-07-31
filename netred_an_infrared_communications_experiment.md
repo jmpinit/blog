@@ -1,6 +1,5 @@
 ---
 date: 2011-02-18 17:26:48
-title: Netred - An Infrared Communications Experiment
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/02/kibnet-e1298050576855.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/02/kibnet-e1298050576855.jpg)

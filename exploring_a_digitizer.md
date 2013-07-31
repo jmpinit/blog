@@ -1,6 +1,5 @@
 ---
 date: 2010-09-03 22:50:22
-title: Exploring a Digitizer
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2010/09/project_digitizer_inprogress.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2010/09/project_digitizer_inprogress.jpg)

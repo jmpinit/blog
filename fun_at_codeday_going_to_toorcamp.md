@@ -1,7 +1,5 @@
 ---
 date: 2012-08-07 09:39:48
-title: Fun at Codeday + Going to Toorcamp
-post_format:
 ---
 
 I haven't had much time lately to write blog posts, but dumping links doesn't take very long.

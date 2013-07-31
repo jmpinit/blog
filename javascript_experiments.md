@@ -1,6 +1,5 @@
 ---
 date: 2012-09-04 20:05:58
-title: Javascript Experiments
 ---
 
 I've been playing around with Javascript for a few months. Here are some of the little silly things that I've come up with:

@@ -1,6 +1,5 @@
 ---
 date: 2012-01-07 17:33:30
-title: Connecting a Hard Drive to an MCU
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/07/board-e1325956514326.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/07/board-e1325956514326.jpg)

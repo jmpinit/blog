@@ -1,6 +1,5 @@
 ---
 date: 2011-07-22 19:15:07
-title: Bootable Conway's Game of Life
 ---
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/eN8e23gVuS0?rel=0" frameborder="0" allowfullscreen></iframe>

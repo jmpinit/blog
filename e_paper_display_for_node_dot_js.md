@@ -1,5 +1,4 @@
 ---
-title: "E-Paper display for Node.js"
 date: 2013-02-25 09:08
 ---
 

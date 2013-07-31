@@ -1,6 +1,5 @@
 ---
 date: 2012-01-30 23:00:48
-title: Demomite
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/01/demomite_lores_full.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/01/demomite_lores_full.jpg)

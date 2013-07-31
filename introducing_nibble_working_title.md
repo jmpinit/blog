@@ -1,6 +1,5 @@
 ---
 date: 2012-07-08 19:03:27
-title: Introducing Nibble (working title)
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/07/mockup_edit-1024x531.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/07/mockup_edit.jpg)

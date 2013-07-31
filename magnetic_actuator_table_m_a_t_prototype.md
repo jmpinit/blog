@@ -1,6 +1,5 @@
 ---
 date: 2011-12-31 23:38:27
-title: Magnetic Actuator Table (M.A.T.) - Prototype
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/12/mat_circuit.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/12/mat_circuit.jpg)

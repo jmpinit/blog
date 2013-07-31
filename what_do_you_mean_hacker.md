@@ -1,6 +1,5 @@
 ---
 date: 2012-01-12 21:08:16
-title: What Do You Mean 'Hacker'?
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/01/eye_open_small.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/01/eye_open_small.jpg)

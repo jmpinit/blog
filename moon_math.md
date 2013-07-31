@@ -1,5 +1,4 @@
 ---
-title: "Moon Math"
 date: 2013-07-14 19:32
 wip: true
 ---

@@ -1,6 +1,5 @@
 ---
 date: 2009-10-23 00:59:30
-title: Isomage
 ---
 
 From my old hackniac blog

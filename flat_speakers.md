@@ -1,6 +1,5 @@
 ---
 date: 2011-09-02 15:42:51
-title: Flat Speakers
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2011/09/flat_speaker_side.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2011/09/flat_speaker_side.jpg)

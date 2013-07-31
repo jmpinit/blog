@@ -1,7 +1,5 @@
 ---
 date: 2012-06-21 20:56:30
-title: Where Did I Go?
-post_format:
 ---
 
 I have moved for the summer to the state of Washington where I am working as an intern for Intellectual Ventures Lab. I am working with 3ric Johanson, but I can't say much beyond that. In late August I will be moving to Boston to go to college at M.I.T.

@@ -1,6 +1,5 @@
 ---
 date: 2011-08-24 15:46:11
-title: Winamp Rating Remote
 ---
 
 I have bajillions of chiptunes ([8bc.org](http://8bc.org) plug) and I use Winamp to organize and play them. Many songs are terrible (really, why did I download them?) so I've been using the rating system to cut out the good ones from the mediocre. The only problem is that I listen while working and it's annoying to stop what I am doing to rate a song, even though I need to do that constantly to churn through every song before the end of time.

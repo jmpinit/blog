@@ -1,6 +1,5 @@
 ---
 date: 2011-02-14 02:10:31
-title: Note-taking Keyboard
 ---
 
 For some reason I am most inspired after cleaning up junk piles around my house. Today the inspiration that resulted from my cleaning adventures revolves around a few different ideas that I have been toying with recently. One of them, simple short-range infrared communications, I've only been thinking about for a week or so. The other idea, a keyboard that I can whip out at any time and type descriptions of ideas as I come up with them I have had for a few years. Combining them I came up with this little project for a weekend in the future when I have time to work on something miscellaneous.

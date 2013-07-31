@@ -1,6 +1,5 @@
 ---
 date: 2013-02-01 13:02:55
-title: My Colossal Cue Adventure
 desc: my attempt at a fun text adventure programming game
 ---
 

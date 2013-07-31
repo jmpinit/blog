@@ -1,6 +1,5 @@
 ---
 date: 2012-11-11 15:25:05
-title: Midipus
 ---
 
 Project is one year old from the time I wrote this article about it.

@@ -1,6 +1,5 @@
 ---
 date: 2012-09-27 20:19:25
-title: Playing with SDL
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/09/3dconway-1024x576.png)](http://www.hackniac.com/blog/wp-content/uploads/2012/09/3dconway.png)

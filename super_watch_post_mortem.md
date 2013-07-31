@@ -1,6 +1,5 @@
 ---
 date: 2012-01-12 01:13:23
-title: Super Watch Post-Mortem
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/01/watch_back-1024x980.jpg)](http://www.hackniac.com/blog/wp-content/uploads/2012/01/watch_back.jpg)

@@ -1,7 +1,5 @@
 ---
 date: 2012-11-11 13:32:11
-title: Current/Recent Projects - (October->November) 2012
-post_format:
 ---
 
 Need more lifetimes to burn.

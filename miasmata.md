@@ -1,6 +1,5 @@
 ---
 date: 2012-08-15 17:44:03
-title: Miasmata
 ---
 
 [![](http://www.hackniac.com/blog/wp-content/uploads/2012/02/Miasmata_Prealpha.png)](http://www.hackniac.com/blog/wp-content/uploads/2012/02/Miasmata_Prealpha.png)
