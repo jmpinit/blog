@@ -1,10 +1,12 @@
 ---
 wip: true
 ---
-{% assign img = 'http://hackniac.com/images/posts/simulacrum' %}
+[TigSource Forum thread](http://forums.tigsource.com/index.php?topic=34294.0)
 
-![front face]({{ img }}/front.jpg)
-![parts]({{ img }}/front.jpg)
-![vm_run]({{ img }}/front.jpg)
-![watch_hello]({{ img }}/front.jpg)
-![watch_side]({{ img }}/front.jpg)
+TODO: explain here
+
+![front face](http://hackniac.com/images/posts/simulacrum/front.jpg)
+![parts](http://hackniac.com/images/posts/simulacrum/front.jpg)
+![vm_run](http://hackniac.com/images/posts/simulacrum/front.jpg)
+![watch_hello](http://hackniac.com/images/posts/simulacrum/front.jpg)
+![watch_side](http://hackniac.com/images/posts/simulacrum/front.jpg)
