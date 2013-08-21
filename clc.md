@@ -1,11 +1,32 @@
 ---
 wip: true
+desc: cli graphing calculator
 ---
-Used wchar but failed
----------------------
 
-	#include <wchar.h>
-	#include <wctype.h>
+[CLC ON GITHUB](https://github.com/jmptable/clc)
+
+What
+====
+
+See what math looks like; super quick - on the command line.
+
+    ./bin/clc 0 6.28 0 2 "1+math.sin(x)"
+
+                         ▄▄▄▄▄▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▚▄▄▄▄▖              
+
+                 ▗▄▄▄▀▀▀▀                                 ▝▀▀▀▚▄▄▄       
+
+           ▄▄▄▀▀▀▘                                                ▀▀▀▚▄▄▖
+
+     ▗▄▄▀▀▀                                                             ▝▀▀▚▄▄
+    ▀▀▀▄▄▄                                                             ▗▄▄▞▀▀▘                                                                   
+          ▀▀▀▄▄▄▖                                                ▄▄▄▞▀▀▘                                                                         
+                ▝▀▀▀▄▄▄▄                                 ▗▄▄▄▞▀▀▀                                                                                
+                        ▀▀▀▀▀▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▞▀▀▀▀▘                                                                                      
+
+Code Snippets
+=============
+(mostly for moi)
 
 Working snippets
 ----------------
@@ -61,4 +82,13 @@ Printing all braile elements
 		printf("test: %c%c%c\n", b1, b2, b3);
 		printf("test: %X, %X, %X\n", b1, b2, b3);
 	}
+
+Random Notes
+============
+
+Used wchar but failed
+---------------------
+
+	#include <wchar.h>
+	#include <wctype.h>
 
