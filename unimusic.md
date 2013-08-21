@@ -26,6 +26,10 @@ It's only possible to download from site's that CLI utilities have been written 
 * Soundcloud: [soundcloud_curl.sh](https://github.com/lukapusic/soundcloud-dl)
 * Youtube: [youtube-dl](http://rg3.github.io/youtube-dl/)
 
+Dev Resources
+-------------
+[extension talking to server](http://developer.chrome.com/extensions/xhr.html)
+
 TODO:
 * publishable code
 * polish
