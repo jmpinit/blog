@@ -29,6 +29,11 @@ Frustrated with long site generation times using Jekyll, I set out to create a s
 4. New post and index.html are generated.
 5. New post and index are uploaded.
 
+Ideas
+-----
+
+* use git API to generate ncftp commands for pushing updates to server
+
 Source Code
 -----------
 
