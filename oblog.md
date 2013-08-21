@@ -32,7 +32,7 @@ Frustrated with long site generation times using Jekyll, I set out to create a s
 Ideas
 -----
 
-* use git API to generate ncftp commands for pushing updates to server
+* use [git API](https://github.com/schacon/ruby-git) to generate ncftp commands for pushing updates to server
 
 Source Code
 -----------
