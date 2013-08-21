@@ -1,5 +1,6 @@
 ---
 wip: true
+desc: hollow shell gravity?
 ---
 ![gravity well]({{site.url}}/images/gravity_well/gravity_well.png)
 ![gravity well]({{site.url}}/images/gravity_well/gravity_well2.png)

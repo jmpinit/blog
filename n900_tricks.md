@@ -1,5 +1,6 @@
 ---
 wip: true
+desc: leverage the hackphone
 ---
 BCP compilation on N900
 ========================

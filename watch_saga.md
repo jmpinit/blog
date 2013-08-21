@@ -1,5 +1,6 @@
 ---
 wip: true
+desc: custom digi watch
 ---
 [TigSource Forum thread](http://forums.tigsource.com/index.php?topic=34294.0)
 

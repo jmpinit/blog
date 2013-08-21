@@ -1,5 +1,6 @@
 ---
 wip: true
+desc: cmd => sms => shell
 ---
 SMS Shell
 =========
