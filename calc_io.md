@@ -3,6 +3,9 @@ wip: true
 date: Tue Aug 20 13:33:49 EDT 2013
 desc: ti calc + avr mcu
 ---
+[Source code on Github.]()https://github.com/jmptable/calc_io
+[Thread on Cemetech.net](http://www.cemetech.net/forum/viewtopic.php?t=9500)
+
 I dead-bug soldered an Atmega328p into empty space inside of a TI-83+ calculator and connected it internally to the calculator's power and link port. I then stuck a DB9 port and RGB LED into the back of the case. Then I wrote a software synth in assembly for the AVR. It takes commands from TI-BASIC programs running on the calculator. To make music. Or to do general hacking, because 4 ADC pins, 6 GPIOs, a serial port, one DAC, 3.3v, and ground are exposed on the port.
 
 Here it is generating a sine wave:
